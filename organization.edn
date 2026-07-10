@@ -1,0 +1,13 @@
+;; Real-world organization location / contact.
+;; :head-role is institutional title only — no personal names.
+{:ooyake-id "gov.ton"
+  :official-url "https://www.gov.to/"
+  :name-en "Tonga"
+  :name-local "Tonga"
+  :wikidata "Q678"
+  :head-role "public procurement authority"
+  :head-role-note "institutional office title only; personal names of current office-holders are intentionally NOT stored"
+  :contact-page "https://www.wikidata.org/wiki/Q38834"
+  :sourced-from "com-etzhayyim-ooyake gov-units (verbatim where present)"
+  :hq {:line-en "Nuku'alofa" :country "ton" :kind "capital" :provenance "https://www.wikidata.org/wiki/Q38834" :last-verified "2026-07-10" :sourcing "authoritative"}
+}
