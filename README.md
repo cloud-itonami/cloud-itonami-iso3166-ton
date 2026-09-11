@@ -46,7 +46,7 @@ as every other `cloud-itonami-iso3166-*` sibling:
   and honestly-narrowed scope, including facts this iteration could NOT
   verify (e.g. a general Employment/Labour Act, and any Reserve Bank of
   Tonga role in foreign-investment screening).
-- `src/statute/facts.cljc` -- general-law catalog: the Companies Act
+- `src/statute/facts.cljk` -- general-law catalog: the Companies Act
   1995 (company law) and the Immigration Act (Chapter 62, Act No. 16 of
   1969) (labor-adjacent, cross-referenced by the Foreign Investment Act
   2020's own s.5(3) as governing non-Tongan-subject employment -- a
@@ -74,7 +74,7 @@ Alongside the market-entry / statute catalogs, this repo carries a
 `com-junkawasaki/root`) — national dishes, protected products, beverages,
 crafts, festivals and heritage sites for Tonga:
 
-- `src/culture/facts.cljc` — the catalog, source of truth (keyed by
+- `src/culture/facts.cljk` — the catalog, source of truth (keyed by
   uppercase ISO3, mirroring `statute.facts`).
 - `schema/culture.edn` — DataScript schema.
 - `data/culture-tx.edn` — derived DataScript tx-data (regenerated from
